@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    color: rgb(207, 213, 219);
+}
+.icon {
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.15rem;
+    fill: currentColor;
+    overflow: hidden;
+  }
+  
